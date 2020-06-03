@@ -1,0 +1,19 @@
+body {
+  background-color: #a51c30;
+  color: #ffffff;
+}
+
+body > div#content {
+  margin: auto;
+  padding-top: 25%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+p.small {
+  font-size: 8px;
+}
